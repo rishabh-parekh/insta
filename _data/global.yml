@@ -1,14 +1,19 @@
 # Site Settings
-title: "Hello. I'm Jami Gibbs."
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
-url: 'http://jamigibbs.github.io/phantom/' # the base hostname & protocol for your site
+title: "Hello, #ThisIsDetroit."
+sub-title: "Instagram PhotoVision Contest and Exhibition"
+date: "1st Aug, 2017"
+venue: "Holding House Detroit"
+
+description-bold: "#ThisIsDetroit"
+description: "is a unique Instagram PhotoVision contest to share your photographs portraying the life and energy of Detroit on Instagram and tagging the picture."
+url: 'http://www.illuminatestories.org' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2016 Jami Gibbs'
-twitter: 'jamigibbs'
-github: 'jamigibbs'
-medium: 'blog.jamigibbs.com'
+footer_text: '© 2017 IlluminateStories.org'
+twitter: 'rishabh'
+instagram: 'rish-parekh'
+blog: 'blog.illuminatestories.org'
 
 # Admin Settings
-admin_name: 'Jami Gibbs'
-admin_email: 'jami0821@gmail.com'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+admin_name: 'Illuminate'
+admin_email: 'rishabh.parekh00@gmail.com'
+google_analytics: "UA-102657466-1" # Update with your own tracking ID

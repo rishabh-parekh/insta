@@ -1,3 +1,3 @@
 main:
-    - { url: '/', text: 'Home' }
-    - { url: '/about', text: 'About' }
+    - { url: 'http://www.illuminatestories.org', text: 'Home' }
+    - { url: 'http://blog.illuminatestories.org', text: 'Blog' }
